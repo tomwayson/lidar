@@ -1,0 +1,33 @@
+{
+  "name": "lidar",
+  "version": "1.0.0",
+  "description": "Like radar, only blazing fast... because lasers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomwayson/lidar.git"
+  },
+  "keywords": [
+    "ArcGIS",
+    "Hub",
+    "React",
+    "Next.js"
+  ],
+  "author": "Tom Wayson <tom@tomwayson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomwayson/lidar/issues"
+  },
+  "homepage": "https://github.com/tomwayson/lidar#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
